@@ -1,0 +1,9 @@
+C:\Users\filur\source\repos\menu v1\menu v1\bin\Debug\menu v1.exe.config
+C:\Users\filur\source\repos\menu v1\menu v1\bin\Debug\menu v1.exe
+C:\Users\filur\source\repos\menu v1\menu v1\bin\Debug\menu v1.pdb
+C:\Users\filur\source\repos\menu v1\menu v1\obj\Debug\menu v1.csprojAssemblyReference.cache
+C:\Users\filur\source\repos\menu v1\menu v1\obj\Debug\menu v1.csproj.CoreCompileInputs.cache
+C:\Users\filur\source\repos\menu v1\menu v1\obj\Debug\menu v1.exe
+C:\Users\filur\source\repos\menu v1\menu v1\obj\Debug\menu v1.pdb
+C:\Users\filur\source\repos\menu v1\menu v1\obj\Debug\menu_v1.Properties.Resources.resources
+C:\Users\filur\source\repos\menu v1\menu v1\obj\Debug\menu v1.csproj.GenerateResource.cache
